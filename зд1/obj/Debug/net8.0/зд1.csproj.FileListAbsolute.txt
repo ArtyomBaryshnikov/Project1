@@ -1,0 +1,14 @@
+D:\ХАБ\КПиЯП\ЛР 1\зд1\зд1\bin\Debug\net8.0\зд1.exe
+D:\ХАБ\КПиЯП\ЛР 1\зд1\зд1\bin\Debug\net8.0\зд1.deps.json
+D:\ХАБ\КПиЯП\ЛР 1\зд1\зд1\bin\Debug\net8.0\зд1.runtimeconfig.json
+D:\ХАБ\КПиЯП\ЛР 1\зд1\зд1\bin\Debug\net8.0\зд1.dll
+D:\ХАБ\КПиЯП\ЛР 1\зд1\зд1\bin\Debug\net8.0\зд1.pdb
+D:\ХАБ\КПиЯП\ЛР 1\зд1\зд1\obj\Debug\net8.0\зд1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ХАБ\КПиЯП\ЛР 1\зд1\зд1\obj\Debug\net8.0\зд1.AssemblyInfoInputs.cache
+D:\ХАБ\КПиЯП\ЛР 1\зд1\зд1\obj\Debug\net8.0\зд1.AssemblyInfo.cs
+D:\ХАБ\КПиЯП\ЛР 1\зд1\зд1\obj\Debug\net8.0\зд1.csproj.CoreCompileInputs.cache
+D:\ХАБ\КПиЯП\ЛР 1\зд1\зд1\obj\Debug\net8.0\зд1.dll
+D:\ХАБ\КПиЯП\ЛР 1\зд1\зд1\obj\Debug\net8.0\refint\зд1.dll
+D:\ХАБ\КПиЯП\ЛР 1\зд1\зд1\obj\Debug\net8.0\зд1.pdb
+D:\ХАБ\КПиЯП\ЛР 1\зд1\зд1\obj\Debug\net8.0\зд1.genruntimeconfig.cache
+D:\ХАБ\КПиЯП\ЛР 1\зд1\зд1\obj\Debug\net8.0\ref\зд1.dll
